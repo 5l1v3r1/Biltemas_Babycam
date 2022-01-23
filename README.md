@@ -5,6 +5,43 @@ A friend asked for help with this cam, the password under the cam does not work 
 
 ![Screenshot](babycam.png)
 
+Various pictures
+
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0001.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0002.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0003.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0004.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0005.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0006.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0007.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0008.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0009.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0010.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0011.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0012.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0013.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0014.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0015.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0016.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0017.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0018.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0019.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0020.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0021.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0022.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0023.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0024.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0025.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0026.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0027.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0028.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0029.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0030.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0031.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0032.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0033.jpg)
+![Screenshot](https://wuseman.nr1.nu/archive/babycam/0034.jpg)
+
 
 #### Here you go: 
 
