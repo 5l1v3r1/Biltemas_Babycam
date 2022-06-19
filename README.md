@@ -2,49 +2,9 @@
 
 A friend asked for help with this cam, the password under the cam does not work and in playstore there is alot of ppl that seems have the same problem.
 
+![babycam](https://user-images.githubusercontent.com/26827453/174461467-a551cc79-fe4d-493b-9cdf-704f46110b21.png)
 
-![Screenshot](babycam.png)
-
-Various pictures
-
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0001.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0002.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0003.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0004.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0005.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0006.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0007.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0008.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0009.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0010.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0011.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0012.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0013.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0014.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0015.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0016.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0017.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0018.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0019.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0020.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0021.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0022.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0023.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0024.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0025.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0026.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0027.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0028.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0029.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0030.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0031.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0032.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0033.jpg)
-![Screenshot](https://wuseman.nr1.nu/archive/babycam/0034.jpg)
-
-
-#### Here you go: 
-
+### Here you go: 
 
     Lets Hack: 
 
@@ -89,12 +49,10 @@ Now you will see the app in your biltemas shitty application
     
 Download app: https://play.google.com/store/apps/details?id=hk.biltema.com&hl=no&gl=US
 
-#### Those cams are dangerous, really! They claim there is no cloud but that is really needed?
+### Those cams are dangerous, really! They claim there is no cloud but that is really needed?
 
-![Screenshot](babycam_mirroring.gif) 
+![babycam_mirroring](https://user-images.githubusercontent.com/26827453/174461462-21b7a8c5-e0b5-47d3-b4aa-cb3b3e9aafdf.gif)
 
-
-#### Manuals
-
+### Manuals
 
     https://www.biltema.se/BiltemaDocuments/Manuals/24-0433_man.pdf
